@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthFun.Api", "AuthFun.Api\AuthFun.Api.csproj", "{DFD691A3-E91D-46BF-93A5-33D9DD0267EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthFun.IdentityServer", "AuthFun.IdentityServer\AuthFun.IdentityServer.csproj", "{EAD88599-5132-4CD2-9323-C64B639B39E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthFun.ConsoleClient", "AuthFun.ConsoleClient\AuthFun.ConsoleClient.csproj", "{66CA61C3-5275-485E-B2F5-0434CB2D8806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthFun.Shared", "AuthFun.Shared\AuthFun.Shared.csproj", "{40FFE90B-517F-4DE5-94D4-E430A520E4A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthFun.WebClient", "AuthFun.WebClient\AuthFun.WebClient.csproj", "{042CD62C-2F58-46A0-AB20-DA6C115DDFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD691A3-E91D-46BF-93A5-33D9DD0267EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD691A3-E91D-46BF-93A5-33D9DD0267EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD691A3-E91D-46BF-93A5-33D9DD0267EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD691A3-E91D-46BF-93A5-33D9DD0267EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD88599-5132-4CD2-9323-C64B639B39E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD88599-5132-4CD2-9323-C64B639B39E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD88599-5132-4CD2-9323-C64B639B39E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD88599-5132-4CD2-9323-C64B639B39E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66CA61C3-5275-485E-B2F5-0434CB2D8806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CA61C3-5275-485E-B2F5-0434CB2D8806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CA61C3-5275-485E-B2F5-0434CB2D8806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CA61C3-5275-485E-B2F5-0434CB2D8806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40FFE90B-517F-4DE5-94D4-E430A520E4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40FFE90B-517F-4DE5-94D4-E430A520E4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40FFE90B-517F-4DE5-94D4-E430A520E4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40FFE90B-517F-4DE5-94D4-E430A520E4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042CD62C-2F58-46A0-AB20-DA6C115DDFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042CD62C-2F58-46A0-AB20-DA6C115DDFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042CD62C-2F58-46A0-AB20-DA6C115DDFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042CD62C-2F58-46A0-AB20-DA6C115DDFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
